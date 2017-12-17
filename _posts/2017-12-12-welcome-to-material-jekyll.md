@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2017-12-04 21:15:05 +0000
 image: /assets/images/twoscreen.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+초기 개발부터 로컬 코드를 개발했습니다. 초기에 개발된 로컬 코드로 프로젝트 마지막까지 구동시켰습니다. 하지만 서버 스트리밍기능을 추가하면서 기존의 로컬코드를 사용하기 무리가 있었고 다른친구가 기존 코드를 기반으로 재구성하여 최종적인 코드를 완성하였습니다.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
